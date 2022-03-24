@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6a4f145463cb6912d274f90c5c3991e7191a3157",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xdb347b011fe29074bc8c168c5531651b2c991469a9f64fb953cf38ed3be38aaf",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Orange ApeZ",
+  "SYMBOL": "OAPZ",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/orange-apez",
+  "SHOW_BACKGROUND": true
+}
